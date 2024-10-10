@@ -1,1 +1,1 @@
-Texto del archivo en master
+Este es el nuevo texto del archivo ahora en ramaNueva
